@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging / PyInstaller build outputs
+build/
+dist/
+*.manifest
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Local user configuration & runtime database
+config.json
+*.db
+*.sqlite3
+telegram_backup.db*
+
+# Quarantine folders created during USB malware scan
+.usb_quarantine/
+.quarantine/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Operating System files
+Thumbs.db
+Thumbs.db:encryptable
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo

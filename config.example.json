@@ -1,0 +1,8 @@
+{
+  "notify_enabled": false,
+  "cli_notify_enabled": true,
+  "auto_scan_enabled": true,
+  "auto_quarantine_enabled": true,
+  "auto_backup_enabled": true,
+  "backup_directory": "C:\\USB_Backups"
+}
